@@ -1,6 +1,6 @@
 # LAB1_202001094
 LAB1 functional requirement 
-      Course : IT314  Software engineering 
+          Course : IT314  Software engineering 
 
 
 
@@ -57,11 +57,27 @@ Adding new features and changing the programme should be as straightforward as p
 
 Q2: Identify scope, features and non-functional aspects of the following problem.
 
-Approximately 5% of the world population (or a staggering 466 million people) suffers from disabling hearing loss. We set out to create an impactful solution for this community that addresses some of their everyday needs. Our mobile application uses artificial intelligence to recognize key sound events of interest to this community, such as car horns and babies,where immediate alerts and continual logging are critical for the user. This app is optimized
-for Android with low-latency so that it works in real-time for use.
+
 
 Scope :  
-Scope of our 
+Scope of our application must be that if must cover with people having hearing disabilities 
+Use of artificial intelligence should be encouraged so that it can recognise important sound occurrences like toddlers and automobile horns.
+
+Features: 
+Instantly notifies users of sound incidents.
+
+Preserving music or any sound  event data for use in the future.
+Continuous logging is good for the suffering users.
+
+
+Non-Functional Aspects:
+
+working right away.
+
+Low latency ensures real-time operation. 
+
+Constructed with Android in mind.
+
 
 
 
